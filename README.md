@@ -28,3 +28,4 @@ npm start
 - Delete notes
 
 This project demonstrates full-stack understanding with clean structure.
+
